@@ -1,0 +1,23 @@
+name: MattClegg
+favicon: null
+layout_spectrum: 0.8582763536833227
+typography_spectrum: 0.8021444026380777
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.21366741275414824
+  lightness: 0.7575967153534293
+  saturation: 0.5653337754774839
+  rhythmicContrast: 0.5076580219902098
+purpose: []
